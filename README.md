@@ -56,7 +56,7 @@ Gitワークショップは、チーム開発経験のない初級〜中級ユ�
 
 期間：1週間
 
-### 3月26日のワークショップ当日までにやっておくこと
+### ワークショップ当日までにやっておくこと
 
 - RecursionのGitコース（YoutubeにあるLinuxのコースも含む）
 - 基本的な操作の流れをこちらの[スライド](https://docs.google.com/presentation/d/1byfV5jM5MlYI55e5HFVEpvCevFODyYHcDJrqYTYodcs/edit#slide=id.gc6f73a04f_0_0)で確認してください。
@@ -113,7 +113,6 @@ Recursionの[自習室](https://recursion.ovice.in/)にて2時間ほどチーム
 
 期間：1週間
 
-***4月2日が最終日となります***
 
 課題の詳細についてはGitワークショップの当日にもお伝えいたします。
 
