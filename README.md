@@ -70,6 +70,8 @@ Gitワークショップは、チーム開発経験のない初級〜中級ユ�
 - GitHub内で実際にBotとやりとりをしながら学習できる[GitHub Learning Lab](https://lab.github.com/)
 - 復習として読むと理解を深められる[サル先生のGit入門](https://backlog.com/ja/git-tutorial/)
 - ブランチの使い方について学習できる[Learning Git Branching](http://k.swd.cc/learnGitBranching-ja/)
+- Git book [Git-Book](http://git-scm.com/book/ja/v2)
+- スライドで眺めるにはちょうどいい [Git講義](https://kaityo256.github.io/github/)
 
 
 ## Gitワークショップ
@@ -143,6 +145,11 @@ Recursionの[自習室](https://recursion.ovice.in/)にて2時間ほどチーム
 - プルリクエストを出す
 - 他のメンバーのコードレビューを行う
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+### issueのルール（前回参加したメンバーが実際にチームメンバー間で共有していた内容です）
+
+![Screen Shot 2022-04-21 at 12 27 59](https://user-images.githubusercontent.com/66197642/164538247-7f962a4a-326e-426c-9e53-c693f85be543.png)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
