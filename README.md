@@ -153,7 +153,7 @@ Cafe Recursion Home Page
 ## チームリーダーの方へ
 
 今回初心者チーム開発のチームリーダーに任命された方は、事前にこちらのREADMEに目を通しておいてください。
-[チームリーダーの方へ](https://github.com/recursion-teamdev/git-workshop/blob/main/teamleader.md)
+- [チームリーダーの方へ](https://github.com/recursion-teamdev/git-workshop/blob/main/teamleader.md)
 
 ## おすすめアプリの紹介
 
