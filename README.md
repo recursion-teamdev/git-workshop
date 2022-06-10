@@ -1,6 +1,6 @@
 # Git ワークショップについて
 
-## Updated: 04/21/22
+## Updated: 06/10/22
 
 ## 概要
 
@@ -78,8 +78,6 @@ Gitワークショップは、チーム開発経験のない初級〜中級ユ�
 
 Recursionの[自習室](https://recursion.ovice.in/)にて2時間ほどチームでgitの操作について学びます
 
-**以下のリンクやコマンドはワークショップの当日も改めて説明しますので目を通しておくだけで大丈夫です**
-
 
 ### チーム開発でよく使用する主なコマンド一覧
 
@@ -91,8 +89,6 @@ Recursionの[自習室](https://recursion.ovice.in/)にて2時間ほどチーム
 |git push	                                |                         |
 |git switch	                              | ブランチ切り替え            |
 |git switch -c	                          | ブランチ作成&切り替え        |
-|git checkout {branch}                    | ブランチ切り替え            |
-|git checkout -b {branch}                 |	ブランチ作成&切り替え        |
 |git pull origin develop --rebase	        | ブランチを最新の状態にする    | 
 
 `--rebase`ってしているのは `git pull` をしたときに不要なコミットを防ぐためです。
@@ -134,27 +130,6 @@ Recursionの[自習室](https://recursion.ovice.in/)にて2時間ほどチーム
  - レベル 1：スライダーなしで作成
  - レベル 2：スライダーありで作成
  - レベル 3：メニューのページやリンク、その他にも機能を追加して作成
-
-
-### 課題２
-
-今回はできるだけGitHubを使用して開発を進めましょう。上記の課題１に加え、Git操作に関する課題もあります。
-
-各チームメンバーが最低でも１回は以下の課題に取り組む
-- イシューを作成する
-- プルリクエストを出す
-- 他のメンバーのコードレビューを行う
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-### issueのルール（前回参加したメンバーが実際にチームメンバー間で共有していた内容です）
-
-![Screen Shot 2022-04-21 at 12 27 59](https://user-images.githubusercontent.com/66197642/164538247-7f962a4a-326e-426c-9e53-c693f85be543.png)
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 ## おすすめアプリの紹介
 
