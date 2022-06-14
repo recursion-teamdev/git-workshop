@@ -6,11 +6,11 @@
 
 チーム開発の課題は、いくつかのタスクに分け、各チームメンバーに対して割り振ることで効率よく開発を進めていくことができます。
 以下のスクリーンショットのように、Issueを作成し、各チームメンバーにアサインします。
-![Screen Shot 2022-06-10 at 3 02 50](https://user-images.githubusercontent.com/66197642/173043090-42aee1c6-958c-421d-8a96-1ce8456e8632.png)
+![Screen Shot 2022-06-13 at 22 18 20](https://user-images.githubusercontent.com/66197642/173499052-dcc964fa-84f8-4e3c-8cc3-c126106a7bf1.png)
 
 
+![Screen Shot 2022-06-13 at 22 16 26](https://user-images.githubusercontent.com/66197642/173498886-b6fd3f9b-5f9e-4207-a8f1-42e00458152c.png)
 
-![Screen Shot 2022-06-10 at 3 03 07](https://user-images.githubusercontent.com/66197642/173043201-4979ef8c-6cf4-453f-ad1e-b7731da6a755.png)
 
 参考リンク
 - [Issueの作成方法](https://docs.github.com/ja/issues/tracking-your-work-with-issues/creating-an-issue)
@@ -21,13 +21,21 @@
 ---
 
 
-各Issueに対してプルリクエストを送るようにすると、どのタスクに対してブランチを切り、どのような変更を行なったのかをわかりやすく管理することができます。
-![Screen Shot 2022-06-10 at 3 03 45](https://user-images.githubusercontent.com/66197642/173043519-ca5793ee-71fc-471b-85c1-b31290ebd144.png)
+各Issueに対してプルリクエストを送るようにすると、どのタスクに対してブランチを切り、どのような変更を行なったのかをわかりやすく管理することができます
+先ほどのCPU対戦機能のIssueがリンクされていることがわかるかと思います
+
+![Screen Shot 2022-06-13 at 22 19 42](https://user-images.githubusercontent.com/66197642/173499212-7d450825-4f03-4c13-8926-03c30fc5c0e6.png)
 
 プルリクエスト内で、レビュワーをアサインすることができ、レビュワーはコードを見てレビューを行います。
 以下のようにコメントで意見を交わしながら進めていくことができます。
+![Screen Shot 2022-06-13 at 22 21 05](https://user-images.githubusercontent.com/66197642/173499302-0e7e5137-a559-4fdc-bcbf-bc2aacc00e97.png)
 
-![Screen Shot 2022-06-10 at 3 04 03](https://user-images.githubusercontent.com/66197642/173043693-d07e5a49-9beb-4d7e-863d-556c33210e65.png)
+レビューの様子
+![Screen Shot 2022-06-13 at 21 55 13](https://user-images.githubusercontent.com/66197642/173499335-b20b8228-e1f1-4007-bef4-1f358faec021.png)
+![Screen Shot 2022-06-13 at 21 56 14](https://user-images.githubusercontent.com/66197642/173499352-dd2af9e1-a0b2-47a2-a861-0ed14b643af3.png)
+
+
+
 
 参考リンク
 - [PullRequestで提案された変更をレビューする](https://docs.github.com/ja/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/reviewing-proposed-changes-in-a-pull-request)
