@@ -65,6 +65,8 @@ Gitワークショップは、チーム開発経験のない初級〜中級ユ�
 - RecursionのGitコース（YoutubeにあるLinuxのコースも含む）
 - 基本的な操作の流れをこちらの[スライド](https://docs.google.com/presentation/d/1byfV5jM5MlYI55e5HFVEpvCevFODyYHcDJrqYTYodcs/edit#slide=id.gc6f73a04f_0_0)で確認してください。
 
+**その他ワークショップの当日までに課題を提出してもらうこともあるので、随時Discordを確認していただけると助かります。**
+
 余裕があれば以下のサイトでも復習しておきましょう。
 
 ### 参考サイト
