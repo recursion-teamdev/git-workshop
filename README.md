@@ -63,7 +63,6 @@ Gitワークショップは、チーム開発経験のない初級〜中級ユ�
 ### ワークショップ当日までにやっておくこと
 
 - RecursionのGitコース（YoutubeにあるLinuxのコースも含む）
-- 基本的な操作の流れをこちらの[スライド](https://docs.google.com/presentation/d/1byfV5jM5MlYI55e5HFVEpvCevFODyYHcDJrqYTYodcs/edit#slide=id.gc6f73a04f_0_0)で確認してください。
 
 **その他ワークショップの当日までに課題を提出してもらうこともあるので、随時Discordを確認していただけると助かります。**
 
@@ -100,7 +99,7 @@ Recursionの[自習室](https://recursion.ovice.in/)にて2時間ほどチーム
 
 `--rebase`ってしているのは `git pull` をしたときに不要なコミットを防ぐためです。
 
-### その他のリンク
+### 参考リンク①
 
 - [コミットメッセージの書き方について](https://qiita.com/konatsu_p/items/dfe199ebe3a7d2010b3e)
 - [プルリクエストの作成方法
